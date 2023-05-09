@@ -6,7 +6,7 @@
 Hello this some text
 
 ## Vocab
-~ repoyerrrrr
+~ repo
 ~ access token
 ~ branch
 ~ GitHub
